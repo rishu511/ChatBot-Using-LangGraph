@@ -1,3 +1,4 @@
+<img width="1914" height="987" alt="image" src="https://github.com/user-attachments/assets/89d53d9a-21e1-43ba-8614-e4cb549e76ce" />
 
 # 🤖 AI Chatbot using LangGraph
 
@@ -139,4 +140,5 @@ The chatbot interface will open in your browser.
 
 - LinkedIn: https://www.linkedin.com/in/rishu-raj-335865290/  
 - GitHub: https://github.com/rishu511
+
 
