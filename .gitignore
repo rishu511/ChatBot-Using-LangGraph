@@ -1,0 +1,52 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# ===============================
+# Environment Variables (IMPORTANT)
+# ===============================
+.env
+.env.*
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Jupyter Notebook checkpoints
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# IDE / Editor files
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# LangChain / Cache files (optional)
+# ===============================
+.cache/
