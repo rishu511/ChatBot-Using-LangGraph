@@ -1,14 +1,10 @@
+
 # 🤖 AI Chatbot using LangGraph
 
 An AI-powered conversational chatbot built using **LangGraph**, **LangChain**, and **OpenAI API**, designed to support context-aware conversations with memory persistence and real-time response streaming. The application provides a clean chat interface using **Streamlit** and maintains conversation history across multiple chat sessions.
 
 ---
 
-## 🖼️ Project Demo
-
-<p align="center">
-  <img src="assets/langgraph-chatbot-ui.png" alt="LangGraph Chatbot UI" width="90%">
-</p>
 
 ---
 
@@ -143,3 +139,4 @@ The chatbot interface will open in your browser.
 
 - LinkedIn: https://www.linkedin.com/in/rishu-raj-335865290/  
 - GitHub: https://github.com/rishu511
+
